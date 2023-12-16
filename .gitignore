@@ -1,3 +1,6 @@
 # ignore a.out executable
 *.out
+parallel
+sequential
+.vscode
 ```

@@ -5,8 +5,8 @@
 
 using namespace std;
 
-#define N 10000 // rows
-#define M 10000 // columns
+#define N 20000 // rows
+#define M 20000 // columns
 #define INF (1<<30)
 
 void manipulate_matrix(vector<vector<int>>& matrix, int& maior, int& menor, long long int& soma, vector<long long int>& soma_linha, vector<long long int>& soma_coluna){
